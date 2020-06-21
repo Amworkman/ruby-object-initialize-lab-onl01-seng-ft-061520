@@ -6,4 +6,3 @@ def initialize(name, breed = "Mutt")
 
 end
 end
-end
